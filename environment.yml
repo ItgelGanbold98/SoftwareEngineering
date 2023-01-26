@@ -1,0 +1,9 @@
+name: SoftwareEngineering
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - jupyterlab
+  - numpy
+prefix: /Users/itgel98/opt/anaconda3/envs/SoftwareEngineering
