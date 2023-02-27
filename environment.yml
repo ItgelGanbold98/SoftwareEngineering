@@ -6,4 +6,7 @@ dependencies:
   - pandas
   - jupyterlab
   - numpy
+  - sqlalchemy
+  - mysqlclient
+  - simplejson
 prefix: /Users/itgel98/opt/anaconda3/envs/SoftwareEngineering
